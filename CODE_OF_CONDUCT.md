@@ -1,4 +1,4 @@
-# Code Of  Codunt [ terraform-in-your-local-dev-with-docker ]
+# Code Of  Conduct [ terraform-in-your-local-dev-with-docker ]
 
 ## Our Pledge
 
@@ -52,4 +52,5 @@ We acknowledge that creating an open and inclusive community requires continuous
 # Visit ME : [ahroniy.me](https://ahroniy.me)
 
 Happy Coding 🙃
+
 
